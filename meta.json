@@ -13,7 +13,7 @@
   "heads": [
     {
       "name": "pigeon",
-      "version": "0.1.2",
+      "version": "0.1.3",
       "author": "Liam Scaife",
       "desc": "🕊️ Define procedures on the server, call them from the browser.",
       "license": "MIT",
