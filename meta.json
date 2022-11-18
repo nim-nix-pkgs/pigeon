@@ -6,6 +6,7 @@
   "description": "Define procedures on the server, call them from the browser.",
   "license": "MIT",
   "refs": [
+    "refs/heads/0.2",
     "refs/heads/main",
     ""
   ],
